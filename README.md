@@ -1,6 +1,6 @@
 # PPB API - Perpustakaan
-
-Proyek ini adalah RESTful API untuk layanan pencatatan peminjaman buku perpustakaan, dibangun menggunakan **Node.js**, **Express.js**, dan **Supabase** (PostgreSQL). API ini digunakan untuk mengelola data buku, anggota, dan peminjaman buku. Proyek ini dibuat sebagai bagian dari Responsi Pemrograman Perangkat Bergerak (PPB) 2026.
+## Myesha Azka Hafizha - 21120124130090 - Kelompok 17 Shift 03
+Proyek ini adalah RESTful API untuk layanan pencatatan peminjaman buku perpustakaan, dibangun menggunakan **Node.js**, **Express.js**, dan **Supabase** (PostgreSQL). API ini digunakan untuk mengelola data buku, anggota, dan peminjaman buku. Proyek ini dibuat sebagai bagian dari Responsi Pemrograman Perangkat Bergerak Modul 1.
 
 ## Tujuan
 
